@@ -1,2 +1,2 @@
-# OPML-Parser
-Parser un fichier OPML en PHP sans se casser la tête ;)
+# xmlUrl
+Récupérer les liens RSS dans un fichier OPML (XML)
